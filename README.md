@@ -1,1 +1,1 @@
-# asteroids-python-
+An asteroids game in python
